@@ -1,12 +1,12 @@
 # 약학 x IT 해커톤 2025 
 
-## 팀명: MindTune
+## 팀명
+MindTune
 
-## 아이디어 명: AI와 음악을 활용해 정신건강 환자의 감정 상태를 이해하고 회복을 돕는 케어 서비스
+## 아이디어 명
+AI와 음악을 활용해 정신건강 환자의 감정 상태를 이해하고 회복을 돕는 케어 서비스
 
-## 아이디어 상세: 환자의 효과적인 복약 지도를 위해, 환자 감정 상태에 따라 적절한 음악을 제안 및 생성하고 이를 복약 알림 등에 활용하여 환자의 복약 이행률을 높인다.
-
-### 주요 기능
+## 주요 기능
 1. 감정 기반 복약 저널 & 스크리닝
 환자가 일상에서 기록한 텍스트(일기), 음성 데이터를 AI가 분석하여 현재의 감정 상태(우울, 불안, 분노, 무기력 등)와 심리적 지표를 추적.
 약사 및 의료진이 환자의 정서 변화와 복약 패턴을 한눈에 모니터링할 수 있는 리포트를 생성.
@@ -18,6 +18,9 @@ LLM + Music Gen Pipeline: 환자의 실시간 감정 상태와 복용 중인 약
 AI가 생성한 환자 맞춤형 힐링 사운드와 따뜻한 응원 메시지로 복약 알림을 제공.
 
 ## 기술 스택
-### Front-end: Flutter
-### Back-end: FastAPI, PostgreSQL
-### AI & Data Engineering: LLM (LangChain / OpenAI API)
+### Front-end
+Flutter
+### Back-end
+FastAPI, PostgreSQL
+### AI & Data Engineering
+LangChain, OpenAI API
